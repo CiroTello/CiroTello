@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ciro Tello</h1>
-<h3 align="center">A passionate developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina 🧉🇦🇷</h3>
 
 - 🔭 I’m currently working on **a youtuber page "Aprendemos de TODO"**
 
