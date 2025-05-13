@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cee145ee-9ad4-4e19-a2cd-2bf609a9d989)<h1 align="center">Hi 👋, I'm Ciro Tello</h1>
+<h1 align="center">Hi 👋, I'm Ciro Tello</h1>
 <h3 align="center">A passionate developer from Argentina 🧉🇦🇷</h3>
 
 - 🔭 I’m currently working on **a youtuber page "Aprendemos de TODO"**
