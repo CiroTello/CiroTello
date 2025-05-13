@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ciro Tello</h1>
-<h3 align="center">A passionate developer from Argentina 🧉🇦🇷</h3>
+<h3 align="center">A system engineer and passionate backend developer from Argentina 🧉🇦🇷</h3>
 
 - 🌱 I’m currently learning **nest js and microservices**
 
@@ -22,23 +22,26 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
   </a>
    <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
     <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
   </a>
+  
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
 
