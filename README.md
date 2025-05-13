@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ciro Tello</h1>
+![image](https://github.com/user-attachments/assets/cee145ee-9ad4-4e19-a2cd-2bf609a9d989)<h1 align="center">Hi 👋, I'm Ciro Tello</h1>
 <h3 align="center">A passionate developer from Argentina 🧉🇦🇷</h3>
 
 - 🔭 I’m currently working on **a youtuber page "Aprendemos de TODO"**
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/ciro-tello/**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <!-- Fila 1 -->
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -24,11 +24,11 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -44,6 +44,7 @@
   </a>
 </p>
 
+<h3 align="left">Databases:</h3>
 <!-- Fila 2 -->
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -72,6 +73,7 @@
   </a>
 </p>
 
+<h3 align="left">Tools:</h3>
 <!-- Fila 3 -->
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
