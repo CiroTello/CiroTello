@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ciro Tello</h1>
 <h3 align="center">A passionate developer from Argentina 🧉🇦🇷</h3>
 
-- 🔭 I’m currently working on **a youtuber page "Aprendemos de TODO"**
-
-- 🌱 I’m currently learning **react js and data science**
+- 🌱 I’m currently learning **nest js and microservices**
 
 - 👯 I’m looking to collaborate on **any development projects**
 
